@@ -1,0 +1,10 @@
+# Python virtual envs
+lstm_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+requirements.txt
